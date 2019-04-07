@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Voice Assistant</string>
+    <string name="chrome">Chrome</string>
+    <string name="create_alarm">Create Alarm</string>
+    <string name="start_timer">Start Timer</string>
+    <string name="add_calender_event">Add Calender Event</string>
+    <string name="capture_a_photo">Capture a Photo</string>
+    <string name="capture_a_video">Capture a Video</string>
+    <string name="insert_a_contact">Insert a Contact</string>
+    <string name="send_a_mail_with_no_attachments">Send a Mail with no Attachments</string>
+    <string name="play_a_music_based_on_search_query">Play a Music based on Search Query</string>
+    <string name="phone_call">Phone Call</string>
+    <string name="web_search">Web Search</string>
+    <string name="open_wifi_settings">Open Wifi Settings</string>
+    <string name="enter">Enter</string>
+    <string name="enter_the_input">Enter the input</string>
+    <string name="help">Commands available are- \n1.Alarm hhmm /message ### \n2.Timer ss /message ### \n3.Calender title #### location #### hbhe \n4.Image or camera photo \n5.Video \n6.Contact name ### ##@## \n7.Mail ##@### subject ### \n8.Music or play artist ### \n9.Call ##### \n10.Web search ##### \n11.Wi-fi \n12.Youtube #### \n13.Maps ### \n14.Navigation ### \n15.Chrome ###</string>
+    <string name="mike">Click to start spech recognition</string>
+    <string name="activity_about">About</string>
+    <string name="speech_to_text_using_google_api">Speech to text using Google API</string>
+    <string name="intro">For using Voice Assistant either click on mike to speak or type the command manually in the input field from drop down menu</string>
+    <string name="developer">Developed By- Rahul Gupta</string>
+    <string name="activity_enter">Enter Manually</string>
+    <string name="activity_home">Home</string>
+</resources>
